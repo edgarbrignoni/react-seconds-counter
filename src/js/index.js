@@ -19,7 +19,7 @@ setInterval(function(){
     if (seconds == 0) {
         seconds = 1109;
         alert('SYSTEM FAILURE');
-        window.location.replace("https://edgarbrignoni.com/matrix-digital-rain/");
+        //window.location.replace("https://edgarbrignoni.com/matrix-digital-rain/");
     }
 
     ReactDOM.render(
