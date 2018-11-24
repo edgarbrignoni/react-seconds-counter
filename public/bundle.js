@@ -63,7 +63,7 @@
 /******/ 	}
 /******/
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "8ddb20b21dc9efafbfa8"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "9b0db38668b60ddb2fd2"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -40657,7 +40657,7 @@ setInterval(function () {
     if (seconds == 0) {
         seconds = 1109;
         alert('SYSTEM FAILURE');
-        //window.location.replace("https://edgarbrignoni.com/matrix-digital-rain/");
+        window.location.replace("https://edgarbrignoni.com/matrix-digital-rain/");
     }
 
     _reactDom2.default.render(_react2.default.createElement(
