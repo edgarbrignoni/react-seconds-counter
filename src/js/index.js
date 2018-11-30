@@ -17,7 +17,7 @@ setInterval(function(){
     
     seconds--;
     if (seconds == 0) {
-        seconds = 1109;
+        seconds = 309;
         alert('SYSTEM FAILURE');
         window.location.replace("https://edgarbrignoni.com/matrix-digital-rain/");
     }
