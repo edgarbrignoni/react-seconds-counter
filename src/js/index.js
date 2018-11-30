@@ -11,7 +11,7 @@ import '../styles/index.scss';
 import './icons.js';
 
 //render your react application
-var seconds = 1109;
+var seconds = 309;
 
 setInterval(function(){ 
     
