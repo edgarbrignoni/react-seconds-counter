@@ -63,7 +63,7 @@
 /******/ 	}
 /******/
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "9b0db38668b60ddb2fd2"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "1a6882d2b79b8d339942"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -40646,7 +40646,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 //include your index.scss file into the bundle
 //import react into the bundle
-var seconds = 1109;
+var seconds = 309;
 
 //include bootstrap npm library into the bundle
 
@@ -40655,7 +40655,7 @@ setInterval(function () {
 
     seconds--;
     if (seconds == 0) {
-        seconds = 1109;
+        seconds = 309;
         alert('SYSTEM FAILURE');
         window.location.replace("https://edgarbrignoni.com/matrix-digital-rain/");
     }
